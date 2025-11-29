@@ -1,0 +1,7 @@
+stable-baselines3==2.2.1
+gymnasium>=0.29.0
+minigrid>=2.1.0
+torch>=2.0.0
+numpy
+pandas
+matplotlib
